@@ -6,3 +6,6 @@ Supplementary code for review
 * Major code overview provided in excel file
 * Only files with changes are uploaded
 * Files in folders are specific to given model
+* Data folder:
+  * Observation: summarized field data
+  * Simulations: truncated output due to file limitations, only from 1984
