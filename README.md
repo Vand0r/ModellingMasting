@@ -8,4 +8,4 @@ Supplementary code for review
 * Files in folders are specific to given model
 * Data folder:
   * Observation: summarized field data
-  * Simulations: truncated outputs from 1984 due to file limitations
+  * Simulations: truncated outputs from 1984 due to file size limitations
